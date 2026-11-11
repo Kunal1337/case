@@ -1,0 +1,5 @@
+streamlit
+gcsfs
+pandas
+altair
+scikit-learn
